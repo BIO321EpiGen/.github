@@ -1,4 +1,4 @@
-# Chromatin and Gene Regulation Research Group
+# Epigenetics and Gene Expression Research Group
 
 Welcome to the GitHub organization of our research group. We are dedicated to understanding how chromatin dynamics regulate gene expression, how these mechanisms are inherited epigenetically, and how their alteration contributes to human disease.
 
